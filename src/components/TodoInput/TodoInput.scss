@@ -1,0 +1,23 @@
+form {
+  display: flex;
+  justify-content: center;
+  input {
+    padding: 6px;
+    border-radius: 10px;
+    width: 350px;
+    outline: none;
+    border: 2px solid;
+  }
+  button {
+    padding: 3px 8px;
+    border-radius: 5px;
+    margin-left: 4px;
+    outline: none;
+    border: none;
+    color: #fff;
+    background: rgb(4, 126, 85);
+  }
+  button:hover {
+    transform: translateX(-3px);
+  }
+}
