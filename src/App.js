@@ -1,6 +1,6 @@
 import TodoInput from "./components/TodoInput/TodoInput";
 import TodoList from "./components/TodoList/TodoList";
-import { v4 } from "uuid";
+// import { v4 } from "uuid";
 import { useState } from "react";
 
 export default function App() {
